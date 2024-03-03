@@ -1,0 +1,4 @@
+  GNU nano 6.2               /tmp/crontab.8qUFrc/crontab                        
+*/10 * * * * python3 /projet_linux/fetch_data.py
+0 18 * * * python3 /projet_linux/save_clean_data.py
+
